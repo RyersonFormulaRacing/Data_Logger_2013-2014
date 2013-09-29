@@ -1,0 +1,11 @@
+#Log time spent working for datalogging system in this format
+#Use this as a template
+#Name your file <FirstName> - <Student Number>
+#You don't have to be extremely accurate; ex - rather than writing 55 minutes, write 1 hour.
+#
+#format: <date mm/dd/yy> <time worked in hours:minutes> "<tasks worked on>"
+#Seperate items with one space, and entries with a linefeed (Enter button)
+#Example: 09/29/13 1:00 "Wrote headers for data storage"
+#Include this header at the beginning of your log as a reminder of the style.
+
+09/29/13 2:00 "Set up github account"
