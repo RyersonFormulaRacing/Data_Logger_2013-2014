@@ -1,9 +1,11 @@
-#Data_Logger_2013-2014
+Data_Logger_2013-2014
+=====================
 
 Data logger programs for 2013-14 season
 This repository includes all programs created by the datalogging system of the Ryerson Formula Racing team.
 
-##1.0 Project Organization
+1.0 Project Organization
+------------------------
 
 There are multiple projects that must be completed for the datalogging system to be successful. We will arrange these projects into three groups:
 
@@ -11,7 +13,8 @@ There are multiple projects that must be completed for the datalogging system to
 - 1.2 - Expected  - functionality that we and the rest of the team expect;
 - 1.3 - Extra     - extra projects that are not necessary or expected.
 
-##2.0 Projects
+2.0 Projects
+------------
 
 This list of projects will be updated and modified throughout the year.
 
@@ -36,7 +39,8 @@ This list of projects will be updated and modified throughout the year.
   - 2.3.2 Computer able to send custom commands to daq, wirelessly or wired
   - 2.3.3 Radio connection with driver
 
-##3.0 Resources
+3.0 Resources
+-------------
 
 - 3.1 Google's c++ style guide - http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml
 - 3.2 ATmega32 microcontroler tutorials - http://www.youtube.com/playlist?list=PLE72E4CFE73BD1DE1
@@ -45,7 +49,8 @@ This list of projects will be updated and modified throughout the year.
 - 3.5 C++ programming reference - http://www.cplusplus.com
 - 3.6 EVERYTHING about electronics - http://www.allaboutcircuits.com
 
-##4.0 External Programs
+4.0 External Programs
+---------------------
 
 - 4.1 RealTerm - http://realterm.sourceforge.net
 - 4.2 Programmer's Notepad - http://www.pnotepad.org/download/
