@@ -45,3 +45,10 @@ This list of projects will be updated and modified throughout the year.
 3.4 General programming tutorials - cprogramming.com; learncpp.com
 3.5 C++ programming reference - cplusplus.com
 3.6 EVERYTHING about electronics - allaboutcircuits.com
+
+4.0 External Programs
+
+4.1 RealTerm - http://realterm.sourceforge.net
+4.2 Programmer's Notepad - http://www.pnotepad.org/download/
+4.3 Github Windows (obviously) - http://windows.github.com
+4.4 Notepad++ - http://notepad-plus-plus.org/download/v6.4.5.html
