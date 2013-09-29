@@ -1,0 +1,7 @@
+#Log time spent working for datalogging system here
+#You don't have to be extremely accurate; ex - rather than writing 55 minutes, write 1 hour.
+#
+#format: <date mm/dd/yy> <First Name> <Student ID Number> <time worked in hours:minutes> "<tasks worked on>"
+#Example: 09/29/13 Caleb 500457638 1:00 "Wrote headers for data storage"
+
+09/29/13 Caleb 500457638 2:00 "Set up github account"
