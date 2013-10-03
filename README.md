@@ -48,6 +48,7 @@ This list of projects will be updated and modified throughout the year.
 - 3.4 General programming tutorials - http://www.cprogramming.com; http://www.learncpp.com
 - 3.5 C++ programming reference - http://www.cplusplus.com
 - 3.6 EVERYTHING about electronics - http://www.allaboutcircuits.com
+- 3.7 gnuplot information - http://www.gnuplot.info/help.html
 
 4.0 External Programs
 ---------------------
@@ -56,3 +57,4 @@ This list of projects will be updated and modified throughout the year.
 - 4.2 Programmer's Notepad - http://www.pnotepad.org/download/
 - 4.3 Github Windows (obviously) - http://windows.github.com
 - 4.4 Notepad++ - http://notepad-plus-plus.org/download/v6.4.5.html
+- 4.5 gnuplot - http://www.gnuplot.info/download.html
