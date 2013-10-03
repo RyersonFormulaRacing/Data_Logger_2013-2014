@@ -9,3 +9,4 @@
 #Include this header at the beginning of your log as a reminder of the style.
 
 09/29/13 2:00 "Set up github account"
+10/03/13 1:30 "Research/Developement in shop"
