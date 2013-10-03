@@ -19,7 +19,7 @@ There are multiple projects that must be completed for the datalogging system to
 This list of projects will be updated and modified throughout the year.
 
 ###2.1 Essential
-  - 2.1.1 Daq able to read data during a run####
+  - 2.1.1 Daq able to read data during a run
   - 2.1.2 Daq able to store data during a run
   - 2.1.3 Daq able to transmit data to a computer after a run
   - 2.1.4 Computer able to present data
