@@ -11,3 +11,4 @@
 09/29/13 2:00 "Set up github account"
 10/03/13 1:30 "Research/Developement in shop"
 10/5/13 17:00 "Wrote Libraries for UART and LCD"
+10/21/13 8:00 "Worked on datalogger PCB design"
