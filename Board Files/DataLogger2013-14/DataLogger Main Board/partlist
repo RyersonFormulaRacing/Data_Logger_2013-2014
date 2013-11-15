@@ -1,0 +1,20 @@
+Partlist
+
+Exported from Main Board.sch at 11/14/2013 4:33:36 PM
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value               Device              Package       Library                  Sheet
+
+C1       22pF                C-USC0805           C0805         adafruit                 1
+C2       22pF                C-USC0805           C0805         adafruit                 1
+C3       0.1uF               C-USC0805           C0805         adafruit                 1
+IC1      ISO1050DUB          ISO1050DUB          DUB-R-PDSO-G8 texas                    1
+Q1       16 MHz              CRYSTALHC49S        HC49/S        adafruit                 1
+SV1                          ML10                ML10          con-ml                   1
+SV2                          ML10                ML10          con-ml                   1
+U$1      1803358THROUGH_HOLE 1803358THROUGH_HOLE 1803358       Phoenix-con              1
+U$2      1803358THROUGH_HOLE 1803358THROUGH_HOLE 1803358       Phoenix-con              1
+U1       AT90CAN128-16AI     AT90CAN128-16AI     TQFP64-0.8MM  _hhn_at90can32_64_128_v2 1
